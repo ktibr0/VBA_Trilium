@@ -32,7 +32,9 @@ Your feedback and suggestions for improvement are welcome!
 **Acknowledgments**
 
 Trilium https://github.com/zadam/trilium 
+
 TriliumNext/Notes https://github.com/TriliumNext/Notes 
+
 Thanks to everyone who contributes to these projects!
 
 
